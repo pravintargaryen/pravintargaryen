@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pravintargaryen
-- 👀 I’m interested in Data Analysis, Machine Learning
-- 🌱 I’m currently learning Python, SAS
-- 💞️ I’m looking to collaborate on Machine Learning for Medical Applications
+- 👀 I’m interested in PHP, Python & Django, iOS Apps
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on Web applications and iOS App Developments
 - 📫 How to reach me - pravinmd94@gmail.com
 
 <!---
