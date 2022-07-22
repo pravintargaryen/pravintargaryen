@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pravintargaryen
+- 👋 Hi, I’m @pravin
 - 👀 I’m interested in PHP, Python & Django, iOS Apps
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Web applications and iOS App Developments
