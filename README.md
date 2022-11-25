@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pravin
 - 👀 I’m know a bit of C++, Python, Django, Javascript and Flutter
 - 🌱 I’m a patchy programmer
-- 💞️ I’m looking to collaborate on Web applications and Android App Developments
+- 💞️ I’m looking to collaborate on Game Development, Web Development and Mobile App Developments
 - 📫 How to reach me - pravinmd94@gmail.com
 
 <!---
