@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pravin
-- 👀 I’m work on PHP, Javascript, C++, Python, Javascript and Flutter languages
+- 👀 I’m work on PHP, React, Typescript, Node.js, C++, Python and Flutter languages
 - 🌱 I’m a patchy programmer
-- 💞️ I’m looking to collaborate on Game Development, Web Development and Mobile App Developments
+- 💞️ I’m looking to collaborate on Web Development and Mobile Apps Development
 - 📫 How to reach me - pravinmd94@gmail.com
 
 <!---
