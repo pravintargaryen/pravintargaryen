@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pravin
+- 👋 Hi, I’m @pravin an aspiring Front end Developer based in India
 - 👀 I’m work on PHP, React, Typescript, Node.js, C++, Python and Flutter languages
 - 🌱 I’m a patchy programmer
 - 💞️ I’m looking to collaborate on Web Development and Mobile Apps Development
