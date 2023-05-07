@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pravin an aspiring Front end Developer based in India
+- 👋 Hi, I’m @pravin self taught Full Stack Developer
 - 👀 I mostly work on Web Application, Mobile Application & AI
 - 🌱 I’m a patchy programmer
 - 💞️ I’m looking to collaborate on Web Development and Mobile Apps Development
