@@ -1,9 +1,9 @@
-#👋 Hi, I’m @pravin self taught Full Stack Developer
-##👀 I mostly work on Web Application, Mobile Application & AI
-##💞️ I’m looking to collaborate on Web Development, Mobile Apps Development, AI Projects
-##📫 How to reach me - pravinmd94@gmail.com
+# 👋 Hi, I’m @pravin self taught Full Stack Developer
+👀 I mostly work on Web Application, Mobile Application & AI
+💞️ I’m looking to collaborate on Web Development, Mobile Apps Development, AI Projects
+📫 How to reach me - pravinmd94@gmail.com
 
-#Tech Stack 
+# Tech Stack 
 <p float="left">
 <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
