@@ -1,6 +1,8 @@
-# 👋 Hi, I’m @pravin self taught Full Stack Developer
+# 👋 Hi, I’m @pravin Full Stack Developer
 👀 I mostly work on Web Application, Mobile Application & AI
+
 💞️ I’m looking to collaborate on Web Development, Mobile Apps Development, AI Projects
+
 📫 How to reach me - pravinmd94@gmail.com
 
 # Tech Stack 
