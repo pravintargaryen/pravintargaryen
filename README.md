@@ -4,9 +4,10 @@
 - 📫 How to reach me - pravinmd94@gmail.com
 
 Tech Stack 
-
+<p float="left">
 <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+</p>
           
           
 
