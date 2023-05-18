@@ -4,9 +4,7 @@
 - 📫 How to reach me - pravinmd94@gmail.com
 
 Tech Stack
-https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg
-https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg
-
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
 
 <!---
 pravintargaryen/pravintargaryen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
