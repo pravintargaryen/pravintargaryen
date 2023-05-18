@@ -3,8 +3,10 @@
 - 💞️ I’m looking to collaborate on Web Development and Mobile Apps Development
 - 📫 How to reach me - pravinmd94@gmail.com
 
-Tech Stack
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
+Tech Stack 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
 
 <!---
 pravintargaryen/pravintargaryen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
