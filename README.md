@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @pravin Web & AI Developer
 👀 I mostly work on Web Application, Mobile Application & AI
 
-💞️ I’m looking to collaborate on Open Source {"Projects" : "React/Next", "Flutter/Firebase", "AI", "PHP/MySQL"}
+💞️ I’m looking to collaborate on Open Source {"Projects" : "JS/React", "Firebase/Supabase", "AI"}
 
 📫 How to reach me - pravinmd94@gmail.com
 
