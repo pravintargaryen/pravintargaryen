@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @pravin Web & AI Developer
-👀 I mostly work on Web Application, Mobile Application & AI
+👀 I mostly work on Web Application, Cross Platform Application & AI
 
 💞️ I’m looking to collaborate on Open Source {"Projects" : "JS/React", "Firebase/Supabase", "AI"}
 
