@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @pravin Web & AI Developer
-👀 I love Building Apps, Games, Doodling, Data, Web Analytics, Databases, AI, Web3  
+👀 I love Building Apps, Games, Doodling, Data visualization, Web Analytics, Databases, AI, Web3  
 
 💞️ I’m looking to collaborate on Open Source {"Projects" : "JS/React", "Firebase/Supabase", "AI"}
 
