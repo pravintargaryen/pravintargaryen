@@ -5,12 +5,18 @@
 
 📫 How to reach me - pravinmd94@gmail.com
 
-# Tech Stack 
+# Frontend
+<p float="left"> 
+<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />            
+<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+
+          
+# Backend
 <p float="left"> 
 <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
 
 
 # Loves...
