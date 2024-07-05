@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @pravin Web & AI Developer
+# 👋 Hi, I’m @pravin Fullstack Developer
 👀 I love Building Apps, Games, Doodles, Databases, AI Models, Web3  
 
 💞️ I’m looking to collaborate on Open Source {"Projects" : "That sparks the adrenaline in me"}
