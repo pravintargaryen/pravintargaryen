@@ -3,7 +3,7 @@
 
 <ul>
 <li>🎓 <strong>Education:</strong> M.S(By Research) from Anna University, Chennai</li>
-<li>💼 <strong>Current Role:</strong> Self Employed</li>
+<li>💼 <strong>Current Role:</strong> Self Employed, previously worked in Medical Editorial Services for 4 Years at Straive</li>
 <li>🧠 <strong>Areas of Expertise:</strong> Machine Learning, Deep Learning, AI in Healthcare, Data Science, Web3</li>
 </ul>
 
