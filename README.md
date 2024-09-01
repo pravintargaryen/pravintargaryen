@@ -115,7 +115,7 @@
 ## 📫 Connect with Me
 - **Linkedin** : [Pravin M D](https://www.linkedin.com/in/pravinmd)
 - **Twitter**: [@unix_pravin](https://twitter.com/unix_pravin)
-- **Website**: [Portfolio](https://mdpravin.netlify.app/)
+- **Website**: [https://mdpravin.netlify.app/](https://mdpravin.netlify.app/)
 - **Email**: [pravinmd94@gmaill.com](mailto:pravinmd94@example.com)
 
 ## 🎯 Current Goals
