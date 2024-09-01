@@ -32,6 +32,11 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
 
+## 📈 **GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravintargaryen&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravintargaryen&layout=compact&theme=radical)
 
 
 
