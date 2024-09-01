@@ -7,11 +7,41 @@
 <li>🧠 <strong>Areas of Expertise:</strong> Machine Learning, Deep Learning, AI in Healthcare, Data Science, Web3</li>
 </ul>
 
-## 📈 **GitHub Stats**
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravintargaryen&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravintargaryen&layout=compact&theme=radical)
+
+
+
+## 🧑‍💻 Projects
+# Project 1: Healthcare AI Platform
+**Description**: Developed an AI platform that leverages machine learning to predict patient outcomes based on electronic health records (EHR). Implemented using TensorFlow and deployed on AWS for scalability.
+<ul>
+<li>Tech Stack: Python, TensorFlow, AWS, Docker</li>
+<li>Key Features: Predictive analytics, Scalable architecture, Real-time data processing</li>
+</ul>
+
+## Project 2: Medical Image Classification
+**Description**: Built a deep learning model using PyTorch for classifying medical images (X-rays, MRIs) with high accuracy.
+<ul>
+<li>Tech Stack: PyTorch, Python, OpenCV</li>
+<li>Key Features: CNN, Transfer Learning, Data Augmentation</li>
+</ul>
+
+## Project 3: Health Data Analysis Dashboard
+**Description**: Created an interactive dashboard to visualize and analyze health data trends. Integrated with public datasets for comprehensive analysis.
+<ul>
+<li>Tech Stack: Python, Pandas, Dash, Plotly</li>
+<li>Key Features: Data visualization, Real-time analytics, User-friendly interface</li>
+</ul>
+
+## 📝 Blog Posts & Articles
+<ul>
+<li>How AI is Transforming Healthcare</li>
+<li>Understanding Deep Learning Architectures</li>           
+<li>Using Machine Learning to Predict Patient Outcomes</li>
+</ul>
+
 
 ## 🚀 Skills
 **Programming Languages:** 
@@ -82,35 +112,13 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-
-## 🧑‍💻 Projects
-# Project 1: Healthcare AI Platform
-**Description**: Developed an AI platform that leverages machine learning to predict patient outcomes based on electronic health records (EHR). Implemented using TensorFlow and deployed on AWS for scalability.
+## 🎯 Current Goals
 <ul>
-<li>Tech Stack: Python, TensorFlow, AWS, Docker</li>
-<li>Key Features: Predictive analytics, Scalable architecture, Real-time data processing</li>
+<li>Contributing to open-source AI/ML projects</li>
+<li>Building AI-driven healthcare solutions</li>           
+<li>Expanding knowledge in reinforcement learning and its applications in healthcare</li>
 </ul>
 
-## Project 2: Medical Image Classification
-**Description**: Built a deep learning model using PyTorch for classifying medical images (X-rays, MRIs) with high accuracy.
-<ul>
-<li>Tech Stack: PyTorch, Python, OpenCV</li>
-<li>Key Features: CNN, Transfer Learning, Data Augmentation</li>
-</ul>
-
-## Project 3: Health Data Analysis Dashboard
-**Description**: Created an interactive dashboard to visualize and analyze health data trends. Integrated with public datasets for comprehensive analysis.
-<ul>
-<li>Tech Stack: Python, Pandas, Dash, Plotly</li>
-<li>Key Features: Data visualization, Real-time analytics, User-friendly interface</li>
-</ul>
-
-## 📝 Blog Posts & Articles
-<ul>
-<li>How AI is Transforming Healthcare</li>
-<li>Understanding Deep Learning Architectures</li>           
-<li>Using Machine Learning to Predict Patient Outcomes</li>
-</ul>
 
 ## 📫 Connect with Me
 - **Linkedin** : [Pravin M D](https://www.linkedin.com/in/pravinmd)
@@ -118,12 +126,6 @@
 - **Website**: [https://mdpravin.netlify.app/](https://mdpravin.netlify.app/)
 - **Email**: [pravinmd94@gmaill.com](mailto:pravinmd94@example.com)
 
-## 🎯 Current Goals
-<ul>
-<li>Contributing to open-source AI/ML projects</li>
-<li>Building AI-driven healthcare solutions</li>           
-<li>Expanding knowledge in reinforcement learning and its applications in healthcare</li>
-</ul>
 
 
 
