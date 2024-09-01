@@ -5,6 +5,12 @@
 
 📫 How to reach me - pravinmd94@gmail.com
 
+## 📈 **GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravintargaryen&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravintargaryen&layout=compact&theme=radical)
+
 # Frontend
 <p float="left"> 
 <img src="https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />  
@@ -32,11 +38,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
 
-## 📈 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravintargaryen&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravintargaryen&layout=compact&theme=radical)
 
 
 
