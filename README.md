@@ -7,7 +7,7 @@
 <li>🧠 <strong>Areas of Expertise:</strong> Machine Learning, Deep Learning, AI in Healthcare, Data Science, Web3</li>
 </ul>
 
-## Stats 
+## 📈 Stats 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravintargaryen&show_icons=true&theme=radical)
 
