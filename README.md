@@ -1,15 +1,14 @@
 # 🌟 About Me
 👋 Hello! I'm Pravin, a passionate AI/ML Engineer with a strong focus on BlockChain, LLM, Healthcare, Computer Vision & Natural Language Processing. I love building intelligent systems that can make a difference in the world, particularly in the healthcare industry. With a background in Science, Medical Editorials and Programming, I strive to combine my technical skills with domain knowledge to solve real-world problems.
-<ul>
-<li>🎓 **Education**: M.S(By Research) from Anna University, Chennai</li>
-<li>💼 **Current Role**: Self Employed</li>
-<li>🧠 **Areas of Expertise**: Machine Learning, Deep Learning, AI in Healthcare, Data Science</li>
-<li>🌐 **Website/Portfolio**: https://mdpravin.netlify.app/</li>
-<li>📫 **Contact**: pravinmd94@gmail.com</li>
-</ul>
+
+🎓 **Education**: M.S(By Research) from Anna University, Chennai
+💼 **Current Role**: Self Employed
+🧠 **Areas of Expertise**: Machine Learning, Deep Learning, AI in Healthcare, Data Science</li>
+🌐 **Portfolio**: https://mdpravin.netlify.app/
+📫 **Contact**: pravinmd94@gmail.com
 
 ## 🚀 Skills
-Languages: Python, Typescript, Go, Solidity, Rust
+Languages: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Typescript, Go, Solidity, Rust
 
 Frameworks/Libraries: 
 <p float="left"> 
