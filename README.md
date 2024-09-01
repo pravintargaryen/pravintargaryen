@@ -4,9 +4,7 @@
 <ul>
 <li>🎓 <strong>Education:</strong> M.S(By Research) from Anna University, Chennai</li>
 <li>💼 <strong>Current Role:</strong> Self Employed</li>
-<li>🧠 <strong>Areas of Expertise:</strong> Machine Learning, Deep Learning, AI in Healthcare, Data Science</li>
-<li>🌐 <strong>Portfolio:</strong> https://mdpravin.netlify.app/</li>
-<li>📫 <strong>Contact:</strong> pravinmd94@gmail.com</li>
+<li>🧠 <strong>Areas of Expertise:</strong> Machine Learning, Deep Learning, AI in Healthcare, Data Science, Web3</li>
 </ul>
 
 ## 🚀 Skills
@@ -115,11 +113,10 @@
 </ul>
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/pravinmd)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/unix_pravin)
-- **Website**: [Your Personal Website](https://mdpravin.netlify.app/)
-- **YouTube**: [Your YouTube Channel](https://www.youtube.com/channel/@vardump_)
-- **Email**: [your-email@example.com](mailto:pravinmd94@example.com)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : [Pravin M D](https://www.linkedin.com/in/pravinmd)
+- **Twitter**: [@unix_pravin](https://twitter.com/unix_pravin)
+- **Website**: [Portfolio](https://mdpravin.netlify.app/)
+- **Email**: [pravinmd94@gmaill.com](mailto:pravinmd94@example.com)
 
 ## 🎯 Current Goals
 <ul>
