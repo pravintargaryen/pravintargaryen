@@ -7,6 +7,12 @@
 <li>🧠 <strong>Areas of Expertise:</strong> Machine Learning, Deep Learning, AI in Healthcare, Data Science, Web3</li>
 </ul>
 
+## 📈 **GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravintargaryen&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravintargaryen&layout=compact&theme=radical)
+
 ## 🚀 Skills
 **Programming Languages:** 
 <p float="left">
@@ -98,12 +104,6 @@
 <li>Tech Stack: Python, Pandas, Dash, Plotly</li>
 <li>Key Features: Data visualization, Real-time analytics, User-friendly interface</li>
 </ul>
-
-## 📈 **GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravintargaryen&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravintargaryen&layout=compact&theme=radical)
 
 ## 📝 Blog Posts & Articles
 <ul>
