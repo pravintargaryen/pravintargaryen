@@ -113,7 +113,7 @@
 </ul>
 
 ## 📫 Connect with Me
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : [Pravin M D](https://www.linkedin.com/in/pravinmd)
+- **Linkedin** : [Pravin M D](https://www.linkedin.com/in/pravinmd)
 - **Twitter**: [@unix_pravin](https://twitter.com/unix_pravin)
 - **Website**: [Portfolio](https://mdpravin.netlify.app/)
 - **Email**: [pravinmd94@gmaill.com](mailto:pravinmd94@example.com)
