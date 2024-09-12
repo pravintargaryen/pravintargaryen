@@ -1,10 +1,9 @@
 # 🌟 About Me
-👋 Hello! I'm Pravin, a passionate AI/ML Engineer with a strong focus on BlockChain, LLM, Healthcare, Computer Vision & Natural Language Processing. I love building intelligent systems that can make a difference in the world, particularly in the healthcare industry.
+👋 Hello! I'm Pravin deeply invested in Web3, Crypto, DeSci, DAOs and LLMs with a particular emphasis on revolutionizing healthcare. I strive to build intelligent solutions that make a lasting impact.
 
 <ul>
 <li>🎓 <strong>Education:</strong> M.S(By Research) from Anna University, Chennai</li>
-<li>💼 <strong>Current Role:</strong> Self Employed, previously worked in Medical Editorial Services for 4 Years at Straive</li>
-<li>🧠 <strong>Areas of Expertise:</strong> Machine Learning, Deep Learning, AI in Healthcare, Data Science, Web3</li>
+<li>🧠 <strong>Areas of Expertise:</strong> Cryptography, Blockchain, Authentication, Deep Learning and Data Analytics</li>
 </ul>
 
 **Programming Languages:** 
