@@ -2,7 +2,6 @@
 👋 Hello! I'm Pravin, deeply invested in Web3, Crypto, DeSci, DAOs and LLMs with a particular emphasis on revolutionizing healthcare. I strive to build intelligent solutions that make a lasting impact.
 
 <ul>
-<li>🎓 <strong>Education:</strong> M.S(By Research) from Anna University, Chennai</li>
 <li>🧠 <strong>Areas of Expertise:</strong> Cryptography, Blockchain, Web Security, Deep Learning and Data Analytics</li>
 </ul>
 
