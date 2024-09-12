@@ -3,7 +3,7 @@
 
 <ul>
 <li>🎓 <strong>Education:</strong> M.S(By Research) from Anna University, Chennai</li>
-<li>🧠 <strong>Areas of Expertise:</strong> Cryptography, Blockchain, Authentication, Deep Learning and Data Analytics</li>
+<li>🧠 <strong>Areas of Expertise:</strong> Cryptography, Blockchain, Web Security, Deep Learning and Data Analytics</li>
 </ul>
 
 **Programming Languages:** 
