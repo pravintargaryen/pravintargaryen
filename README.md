@@ -5,6 +5,8 @@
 <li>🧠 <strong>Areas of Expertise:</strong> Cryptography, Blockchain, Web Security, Deep Learning and Data Analytics</li>
 </ul>
 
+![Numbers are Beautiful!](https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif)
+
 **Programming Languages:** 
 <p float="left">
 <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />               
