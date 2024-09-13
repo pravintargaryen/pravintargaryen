@@ -5,7 +5,7 @@
 <li>🧠 <strong>Areas of Expertise:</strong> Cryptography, Blockchain, Web Security, Deep Learning and Data Analytics</li>
 </ul>
 
-![Numbers are Beautiful!](https://i.gifer.com/3HeZ.gif)
+<img src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" width="400" height="400" />
 
 **Programming Languages:** 
 <p float="left">
