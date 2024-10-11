@@ -85,7 +85,7 @@
 
 
 
-## 🧑‍💻 Projects
+<!-- ## 🧑‍💻 Projects
 # Project 1: Healthcare AI Platform
 **Description**: Developed an AI platform that leverages machine learning to predict patient outcomes based on electronic health records (EHR). Implemented using TensorFlow and deployed on AWS for scalability.
 <ul>
@@ -112,7 +112,7 @@
 <li>How AI is Transforming Healthcare</li>
 <li>Understanding Deep Learning Architectures</li>           
 <li>Using Machine Learning to Predict Patient Outcomes</li>
-</ul>
+</ul> -->
 
 ## 🎯 Current Goals
 <ul>
