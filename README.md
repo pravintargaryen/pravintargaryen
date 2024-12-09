@@ -5,6 +5,8 @@
 
 🧠 Areas of Obsession: Cryptography, Blockchain, Web Security, Deep Learning, and Data Analytics. From deciphering complex datasets to building secure, decentralized systems, I'm here to let data tell its stories—and shape the future.
 
+!['Data Morph'](https://raw.githubusercontent.com/stefmolin/data-morph/main/docs/_static/panda-to-star-eased.gif)
+
 <p float="left">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -34,7 +36,6 @@
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> 
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 
-!['Data Morph'](https://raw.githubusercontent.com/stefmolin/data-morph/main/docs/_static/panda-to-star-eased.gif)
 
 ## 📈 Stats 
 
