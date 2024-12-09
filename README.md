@@ -3,8 +3,6 @@
 
 🐍 Python is my first love, but TypeScript and Node.js are close seconds, fueling scalable backends, seamless APIs, and dynamic frontends. Add React & Vue to the mix, and I’m in my element, crafting user-friendly interfaces backed by powerful logic.
 
-🧠 Areas of Obsession: Cryptography, Blockchain, Web Security, Deep Learning, and Data Analytics. From deciphering complex datasets to building secure, decentralized systems, I'm here to let data tell its stories—and shape the future.
-
 !['Data Morph'](https://raw.githubusercontent.com/stefmolin/data-morph/main/docs/_static/panda-to-star-eased.gif)
 
 <p float="left">
