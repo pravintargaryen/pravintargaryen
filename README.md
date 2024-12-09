@@ -1,7 +1,7 @@
 # 🌟 About Me
-👋 Hello! I'm Pravin, a data aficionado and a born Pythonista with an enduring love for Django and FastAPI.
+👋 Hello! I'm Pravin, a data aficionado and a born Pythonista with an enduring love for Django and FastAPI and all things TypeScript.
 
-🐍 Python is my playground, where I craft scalable backends and orchestrate seamless APIs. Whether it's securing data pipelines or creating interactive dashboards, I'm all about wielding data to its fullest potential.
+🐍 Python is my first love, but TypeScript and Node.js are close seconds, fueling scalable backends, seamless APIs, and dynamic frontends. Add React & Vue to the mix, and I’m in my element, crafting user-friendly interfaces backed by powerful logic.
 
 🧠 Areas of Obsession: Cryptography, Blockchain, Web Security, Deep Learning, and Data Analytics. From deciphering complex datasets to building secure, decentralized systems, I'm here to let data tell its stories—and shape the future.
 
@@ -21,18 +21,12 @@
           
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 
 
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />  
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />  
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />  
-
 
 
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
@@ -45,7 +39,6 @@
 <img src="https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"  />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 
 
