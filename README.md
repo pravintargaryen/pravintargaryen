@@ -1,7 +1,9 @@
 # 🌟 About Me
-👋 Hello! I'm Pravin, a data-driven engineer and a born Pythonista with an enduring love for Django and FastAPI and all things TypeScript.
+Hello! I'm Pravin, a data-driven engineer with a passion for AI, Retrieval-Augmented Generation (RAG), and the MERN stack.
 
-🐍 Python is my first love, but TypeScript and Node.js are close seconds, fueling scalable backends, seamless APIs, and dynamic frontends. Add React & Vue (data-driven engines) to the mix, and I’m in my element, crafting user-friendly interfaces backed by powerful logic.
+🤖 AI and RAG are at the heart of my work, enabling smarter solutions through cutting-edge models and efficient knowledge retrieval. MERN powers my scalable backends, dynamic frontends, and seamless APIs, all tied together with a touch of TypeScript for reliability.
+
+⚡ Python remains my first love, especially with Django and FastAPI for robust server-side applications. 
 
 !['Data Morph'](https://raw.githubusercontent.com/stefmolin/data-morph/main/docs/_static/panda-to-star-eased.gif)
 
