@@ -5,7 +5,7 @@ Hello! I'm Pravin, a data-driven engineer with a passion for AI, Retrieval-Augme
 
 ⚡ Python remains my first love, especially with Django and FastAPI for robust server-side applications. 
 
-!['Data Morph'](https://raw.githubusercontent.com/stefmolin/data-morph/main/docs/_static/panda-to-star-eased.gif)
+!['Response'](https://media1.tenor.com/m/nvwjDSzbobsAAAAd/irobot-responses.gif)
 
 <p float="left">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
