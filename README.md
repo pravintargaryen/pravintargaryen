@@ -83,9 +83,7 @@ Hello! I'm Pravin, a data-driven engineer with a passion for AI, Retrieval-Augme
 
 
 ## 📫 Connect with Me
-- **Linkedin** : [Pravin M D](https://www.linkedin.com/in/pravinmd)
-- **Twitter**: [@unix_pravin](https://twitter.com/unix_pravin)
-- **Website**: [https://mdpravin.netlify.app/](https://mdpravin.netlify.app/)
+- **Bluesky**: [Pravin](https://bsky.app/profile/pravinkramer.bsky.social)
 - **Email**: [pravinmd94@gmaill.com](mailto:pravinmd94@example.com)
 
 
