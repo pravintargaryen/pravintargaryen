@@ -3,7 +3,7 @@ Hello! I'm Pravin, a data-driven engineer with a passion for AI, Retrieval-Augme
 
 ⚡ Python remains my first love, especially with Django and FastAPI for robust server-side applications. 
 
-!['Hero'](https://raw.githubusercontent.com/pravintargaryen/langchain-cdn/refs/heads/main/e46002b4-4a85-4bae-b90d-d5857cf7aeb8.jpg)
+!['Hero'](https://raw.githubusercontent.com/pravintargaryen/langchain-cdn/refs/heads/main/e46002b4-4a85-4bae-b90d-d5857cf7aeb8.jpg?token=GHSAT0AAAAAACYY4CUXBWXIHDVRNEPDYBBCZ6KPWJQ)
 
 <p float="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />          
