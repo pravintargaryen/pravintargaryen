@@ -3,7 +3,6 @@ Hello! I'm Pravin, a data-driven engineer with a passion for AI, Retrieval-Augme
 
 ⚡ Python remains my first love, especially with Django and FastAPI for robust server-side applications. 
 
-!['Hero'](https://tenor.com/en-GB/view/beautiful-masterpiece-irobot-robot-can-you-will-smith-gif-27593935)
 
 <p float="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />          
