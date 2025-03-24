@@ -3,7 +3,7 @@ Hello! I'm Pravin, a data-driven engineer with a passion for AI, Retrieval-Augme
 
 ⚡ Python remains my first love, especially with Django and FastAPI for robust server-side applications. 
 
-<p float="left">
+
 ![Static Badge](https://img.shields.io/badge/Data%20Miner-blue)
 ![Static Badge](https://img.shields.io/badge/Algorithms-purple)
 ![Static Badge](https://img.shields.io/badge/Systematic%20Reviewer-green)
