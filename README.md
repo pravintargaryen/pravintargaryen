@@ -4,10 +4,12 @@ Hello! I'm Pravin, a data-driven engineer with a passion for AI, Retrieval-Augme
 ⚡ Python remains my first love, especially with Django and FastAPI for robust server-side applications. 
 
 <p float="left">
-![Data Miner](https://img.shields.io/badge/Data%20Miner-blue?style=for-the-badge&logo=databricks)
-![Algorithm Enthusiast](https://img.shields.io/badge/Algorithm%20Enthusiast-purple?style=for-the-badge&logo=codeforces)
-![Systematic Reviewer](https://img.shields.io/badge/Systematic%20Reviewer-green?style=for-the-badge&logo=googlescholar)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-cyan?style=for-the-badge&logo=dna)
+![Static Badge](https://img.shields.io/badge/Data%20Miner-blue)
+![Static Badge](https://img.shields.io/badge/Algorithms-purple)
+![Static Badge](https://img.shields.io/badge/Systematic%20Reviewer-green)
+![Static Badge](https://img.shields.io/badge/NLP%20Engineer-orange)
+![Static Badge](https://img.shields.io/badge/Bioinformatics-cyan)
+
 
 
 <p float="left">
