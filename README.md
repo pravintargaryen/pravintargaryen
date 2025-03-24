@@ -1,7 +1,4 @@
 # 🌟 About Me
-Hello! I'm Pravin, a data-driven engineer with a passion for AI, Retrieval-Augmented Generation (RAG) and Matrices.
-
-⚡ Python remains my first love, especially with Django and FastAPI for robust server-side applications. 
 
 
 ![Static Badge](https://img.shields.io/badge/Data%20Miner-blue)
