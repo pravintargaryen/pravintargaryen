@@ -57,20 +57,6 @@
 <li>Key Features: Data visualization, Real-time analytics, User-friendly interface</li>
 </ul>
 
-## 📝 Blog Posts & Articles
-<ul>
-<li>How AI is Transforming Healthcare</li>
-<li>Understanding Deep Learning Architectures</li>           
-<li>Using Machine Learning to Predict Patient Outcomes</li>
-</ul> -->
-
-## 🎯 Current Goals
-<ul>
-<li>Contributing to open-source AI/ML projects</li>
-<li>Building AI-driven healthcare solutions</li>           
-<li>Expanding knowledge in reinforcement learning and its applications in healthcare</li>
-</ul>
-
 
 ## 📫 Connect with Me
 - **Bluesky**: [Pravin](https://bsky.app/profile/pravinkramer.bsky.social)
