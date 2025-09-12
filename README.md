@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/Algorithms-purple)
 ![Static Badge](https://img.shields.io/badge/Systematic%20Reviewer-green)
 ![Static Badge](https://img.shields.io/badge/NLP%20Engineer-orange)
-![Static Badge](https://img.shields.io/badge/Bioinformatics-cyan)
+
 
 
 
