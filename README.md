@@ -1,9 +1,8 @@
 # 🌟 About Me
 
 
-![Static Badge](https://img.shields.io/badge/Data%20Miner-blue)
+![Static Badge](https://img.shields.io/badge/AI%20Agents-blue)
 ![Static Badge](https://img.shields.io/badge/Algorithms-purple)
-![Static Badge](https://img.shields.io/badge/Systematic%20Reviewer-green)
 ![Static Badge](https://img.shields.io/badge/NLP%20Engineer-orange)
 
 
