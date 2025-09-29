@@ -2,6 +2,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/AI%20Agents-blue)
+![Static Badge](https://img.shields.io/badge/Vector%20Database-green)
 ![Static Badge](https://img.shields.io/badge/Algorithms-purple)
 ![Static Badge](https://img.shields.io/badge/NLP%20Engineer-orange)
 
