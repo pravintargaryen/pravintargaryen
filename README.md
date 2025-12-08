@@ -27,11 +27,11 @@
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 
 
-## 📈 Stats 
+<!-- ## 📈 Stats 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravintargaryen&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravintargaryen&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravintargaryen&layout=compact&theme=radical) -->
 
 
 
