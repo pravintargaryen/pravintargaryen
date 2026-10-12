@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
+
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/pravinmd/) • [My Scrimba Profile](https://scrimba.com/u011uvv:affiliate) • [My Favorite Scrimba Course](https://scrimba.com/learn-agentic-coding-c0g68l84pg) 
 
