@@ -24,9 +24,9 @@
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/pravinmd/) • [My Scrimba Profile](https://scrimba.com/u011uvv:affiliate) • [My Favorite Scrimba Course](https://scrimba.com/learn-agentic-coding-c0g68l84pg) 
+[LinkedIn](https://www.linkedin.com/in/pravinmd/) • [My Scrimba Profile](https://scrimba.com/u011uvv:affiliate?via=u011uvv) • [My Favorite Scrimba Course](https://scrimba.com/learn-agentic-coding-c0g68l84pg?via=u011uvv) 
 
-[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors?via=u011uvv)
 
 ---
 
