@@ -1,15 +1,17 @@
-# 🌟 About Me
+# Hello, Universe!
 
+- 🧠 **What I build:** Algorithms, LLM Inference, Evals and Data Annotation
 
-![Static Badge](https://img.shields.io/badge/AI%20Agents-blue)
+- 🎨 **What I care about:** ![Static Badge](https://img.shields.io/badge/AI%20Agents-blue)
 ![Static Badge](https://img.shields.io/badge/Vector%20Database-green)
 ![Static Badge](https://img.shields.io/badge/Algorithms-purple)
 ![Static Badge](https://img.shields.io/badge/NLP%20Engineer-orange)
 
+- 🧩 **Tech I'm using:** C, Python, React
 
+- 🚀 **Fun fact:** https://www.linkedin.com/feed/update/urn:li:ugcPost:7076993144604524544/
 
-
-<p float="left">
+### 🛠️ My Toolkit
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />  
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />        
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
@@ -18,43 +20,22 @@
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />          
- 
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-<!-- ## 📈 Stats 
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/pravinmd/) • [My Scrimba Profile](https://scrimba.com/u011uvv:affiliate) • [My Favorite Scrimba Course](https://scrimba.com/learn-agentic-coding-c0g68l84pg) 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravintargaryen&show_icons=true&theme=radical)
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravintargaryen&layout=compact&theme=radical) -->
+---
 
+## 📊 GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pravintargaryen&theme=dark)](https://git.io/streak-stats)
 
-<!-- ## 🧑‍💻 Projects
-# Project 1: Healthcare AI Platform
-**Description**: Developed an AI platform that leverages machine learning to predict patient outcomes based on electronic health records (EHR). Implemented using TensorFlow and deployed on AWS for scalability.
-<ul>
-<li>Tech Stack: Python, TensorFlow, AWS, Docker</li>
-<li>Key Features: Predictive analytics, Scalable architecture, Real-time data processing</li>
-</ul>
-
-## Project 2: Medical Image Classification
-**Description**: Built a deep learning model using PyTorch for classifying medical images (X-rays, MRIs) with high accuracy.
-<ul>
-<li>Tech Stack: PyTorch, Python, OpenCV</li>
-<li>Key Features: CNN, Transfer Learning, Data Augmentation</li>
-</ul>
-
-## Project 3: Health Data Analysis Dashboard
-**Description**: Created an interactive dashboard to visualize and analyze health data trends. Integrated with public datasets for comprehensive analysis.
-<ul>
-<li>Tech Stack: Python, Pandas, Dash, Plotly</li>
-<li>Key Features: Data visualization, Real-time analytics, User-friendly interface</li>
-</ul>
+---
 
 
-## 📫 Connect with Me
-- **Bluesky**: [Pravin](https://bsky.app/profile/pravinkramer.bsky.social)
-- **Email**: [pravinmd94@gmaill.com](mailto:pravinmd94@example.com)
 
 
 
